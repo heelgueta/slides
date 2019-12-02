@@ -1,0 +1,154 @@
+---
+title: "Understanding risk perception and trust in risk communication from a Social Identity Approach"
+subtitle: ""
+author: "Herman Elgueta, PhD - herman.elgueta@umag.cl"
+institute: "Universidad de Magallanes"
+date: "December 10, 2019 - SRA 2019 - Arlington, VA"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# Overview
+--
+
+## 1. Background
+--
+
+## 2. Study 1: Correlational approach
+--
+
+## 3. Study 2: Experimental approach
+--
+
+## 4. Summary
+
+---
+class: inverse, center, middle
+
+# 1. Background
+
+
+---
+
+# Why do people oppose or support certain technologies?
+
+--
+
+## a) Beliefs and/or feelings
+--
+ (and/or attitudes)
+
+--
+###Risk and benefit perception
+
+
+--
+###Dread factor
+
+
+--
+###Tampers with nature
+
+---
+
+# Why do people oppose or support certain technologies?
+
+--
+
+## b) Trust (or distrust)
+--
+
+...in Stakeholders,
+
+--
+Managers,
+
+--
+Communicators.
+
+--
+###Perceived Competence
+--
+ or Calculational Trust
+--
+ or Being Smart
+--
+
+###Perceived Benevolence
+--
+ or Relational Trust
+--
+ or Being Good
+
+---
+class: inverse, center
+# So... why do people oppose or support certain technologies?
+
+--
+.pull-left[
+(Attitudes)
+## a) Beliefs and feelings about the technology itself
+]
+
+
+--
+
+.pull-right[
+(Trust)
+## b) Judgements about those involved somehow
+]
+
+--
+
+## Okay... 
+--
+
+
+#But where do these attitudes and judgments come from?
+
+
+---
+class:center
+#"Social Identity Approach"
+--
+
+"self-perceived belonging to groups"
+
+--
+.pull-left[
+### c) Social Identity Theory
+#### SIT (Tajfel & Turner, 1979, 1986)
+Intergroup relations
+In-group favoritism
+]
+
+
+--
+
+.pull-right[
+### d) Self-Categorization Theory
+####SCT (Turner et al, 1987)
+Intragroup processes
+Normative influence
+]
+
+---
+
+A little bit of applied context
+
+##Opposition to power plants in Chile
+
+
+
+
+---
+# 3. Correlational study
+---
+# 4. Experimental study
+---
+# 5. Summary
