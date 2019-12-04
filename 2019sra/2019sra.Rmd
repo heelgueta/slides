@@ -1,0 +1,206 @@
+--- 
+title: "Understanding Risk Perception and Trust in Risk Communication from a Social Identity Approach"
+subtitle: ""
+author: "Herman Elgueta, PhD - herman.elgueta@umag.cl"
+institute: "Universidad de Magallanes"
+date: "December 10, 2019 - SRA 2019 - Arlington, VA"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      
+---
+# <!-- Slide 02 --> Overview
+--
+
+## 1. Background
+--
+
+## 2. Study 1: Correlational approach
+--
+
+## 3. Study 2: Experimental approach
+--
+
+## 4. Summary
+
+---
+class: inverse, center, middle
+
+# <!-- Slide 03 --> 1. Background
+
+
+---
+
+# <!-- Slide 04 --> Why do people oppose or support certain technologies?
+
+--
+
+## a) Beliefs and/or feelings
+--
+ (and/or attitudes)
+
+--
+###Risk and benefit perception
+
+
+--
+###Dread factor
+
+
+--
+###Tampers with nature
+
+---
+
+# <!-- Slide 05 --> Why do people oppose or support certain technologies?
+
+--
+
+## b) Trust (or distrust)
+--
+
+...in Stakeholders,
+
+--
+Managers,
+
+--
+Communicators.
+
+--
+###Perceived Competence
+--
+ or Calculational Trust
+--
+ or Being Smart
+--
+
+###Perceived Benevolence
+--
+ or Relational Trust
+--
+ or Being Good
+
+---
+class: inverse, center
+# <!-- Slide 06 --> So... why do people oppose or support certain technologies?
+
+--
+.pull-left[
+(Attitudes)
+## a) Beliefs and feelings about the technology itself
+]
+
+
+--
+
+.pull-right[
+(Trust)
+## b) Judgements about those involved somehow
+]
+
+--
+
+## Okay... 
+--
+
+
+
+## But where do these attitudes and judgments come from?
+
+
+---
+class:center
+# <!-- Slide 07 --> "Social Identity Approach"
+--
+
+*"self-perceived belonging to groups"*
+
+--
+.pull-left[
+## Social Identity Theory
+**SIT** (Tajfel & Turner, 1979, 1986)
+
+...
+
+Intergroup relations
+
+...
+
+###**In-group favoritism**
+]
+
+
+--
+
+.pull-right[
+## Self-Categorization Theory
+**SCT** (Turner et al, 1987)
+
+...
+
+Intragroup processes
+
+
+...
+
+###**Normative influence**
+]
+
+---
+class:center,middle
+# <!-- Slide 08 --> Two types of effects
+```{r, echo=F, eval=T}
+library(DiagrammeR)
+grViz("
+digraph dot {
+
+  graph [overlap = false,
+        fontsize = 10,
+        layout = dot,
+        rankdir = LR]
+
+  node [shape = circle,
+        fixedsize = true,
+        fontname = Helvetica
+        width=.8] // sets as circles
+  Attit;SocId;Trust
+
+  # several 'edge' statements
+  Trust -> Attit
+  SocId -> {Attit Trust}
+  
+}
+")
+
+```
+
+
+
+---
+
+
+
+
+# <!-- Slide 09 --> A little bit of applied context
+##Opposition to power plants in Chile
+
+
+
+
+---
+# <!-- Slide 10 --> 3. Correlational study
+---
+# <!-- Slide 11 --> 4. Experimental study
+
+## Results
+
+
+---
+# <!-- Slide 12 --> 5. Summary
+##Social identity theory
+---
