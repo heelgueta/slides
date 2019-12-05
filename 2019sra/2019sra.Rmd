@@ -44,15 +44,19 @@ class: inverse, center, middle
  (and/or attitudes)
 
 --
-###Risk and benefit perception
-
+.pull-left[
+###Risk and benefit perceptions
+![](imgs/balance.jpg)
+]
 
 --
+.pull-right[
 ###Dread factor
+![](imgs/dread.jpg)
+]
 
 
---
-###Tampers with nature
+
 
 ---
 
@@ -61,29 +65,18 @@ class: inverse, center, middle
 --
 
 ## b) Trust (or distrust)
---
-
-...in Stakeholders,
 
 --
-Managers,
-
---
-Communicators.
-
---
+.pull-left[
 ###Perceived Competence
---
- or Calculational Trust
---
- or Being Smart
---
+![](imgs/smart.jpg)
+]
 
+--
+.pull-right[
 ###Perceived Benevolence
---
- or Relational Trust
---
- or Being Good
+![](imgs/good.jpg)
+]
 
 ---
 class: inverse, center
