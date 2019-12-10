@@ -11,18 +11,17 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      
 ---
 # <!-- Slide 02 --> Overview
 --
 
-## 1. Background
+## 1. Theoretical issues
 --
 
-## 2. Study 1: Correlational approach
+## 2. Things in context
 --
 
-## 3. Study 2: Experimental approach
+## 3. Some results
 --
 
 ## 4. Summary
@@ -30,7 +29,7 @@ output:
 ---
 class: inverse, center, middle
 
-# <!-- Slide 03 --> 1. Background
+# <!-- Slide 03 --> 1. Theory
 
 
 ---
@@ -47,12 +46,17 @@ class: inverse, center, middle
 .pull-left[
 ###Risk and benefit perceptions
 ![](imgs/balance.jpg)
+
+(e.g. Bearth & Siegrist, 2016)
 ]
+
 
 --
 .pull-right[
-###Dread factor
+###Affect heuristic
 ![](imgs/dread.jpg)
+
+(e.g. Slovic, 2007)
 ]
 
 
@@ -66,6 +70,7 @@ class: inverse, center, middle
 
 ## b) Trust (or distrust)
 
+(e.g. Slovic, 1993; Earle, 2010; Siegriest, 2019)
 --
 .pull-left[
 ###Perceived Competence
@@ -146,6 +151,20 @@ Intragroup processes
 
 ---
 class:center,middle
+# <!-- Slide 07 --> "Social Identity Theory: SIT"
+--
+(Tajfel & Turner, 1979, 1986)
+
+
+--
+## Accentuation principle (Tajfel & Wilkes, 1963)
+"stimuli be!onging to different classes are judged as farther apart"
+
+
+
+## Minimal group paradigm 
+---
+class:center,middle
 # <!-- Slide 08 --> Two types of effects
 ```{r, echo=F, eval=T}
 library(DiagrammeR)
@@ -179,14 +198,14 @@ digraph dot {
 
 
 
-# <!-- Slide 09 --> A little bit of applied context
+# <!-- Slide 09 --> 2. Context
 ##Opposition to power plants in Chile
 
 
 
 
 ---
-# <!-- Slide 10 --> 3. Correlational study
+# <!-- Slide 10 --> 3. Some results
 ---
 # <!-- Slide 11 --> 4. Experimental study
 
