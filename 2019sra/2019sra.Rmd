@@ -12,7 +12,9 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
-# <!-- Slide 02 --> Overview
+
+
+# <!-- Slide --> Overview
 --
 
 ## 1. Theoretical issues
@@ -29,12 +31,12 @@ output:
 ---
 class: inverse, center, middle
 
-# <!-- Slide 03 --> 1. Theory
+# <!-- Slide --> 1. Theory
 
 
 ---
 
-# <!-- Slide 04 --> Why do people oppose or support certain technologies?
+# <!-- Slide --> Why do people oppose or support certain technologies?
 
 --
 
@@ -64,7 +66,7 @@ class: inverse, center, middle
 
 ---
 
-# <!-- Slide 05 --> Why do people oppose or support certain technologies?
+# <!-- Slide --> Why do people oppose or support certain technologies?
 
 --
 
@@ -85,12 +87,12 @@ class: inverse, center, middle
 
 ---
 class: inverse, center
-# <!-- Slide 06 --> So... why do people oppose or support certain technologies?
+# <!-- Slide --> So... why do people oppose or support certain technologies?
 
 --
 .pull-left[
 (Attitudes)
-## a) Beliefs and feelings about the technology itself
+## a) Beliefs/feelings about the technology itself
 ]
 
 
@@ -113,7 +115,7 @@ class: inverse, center
 
 ---
 class:center
-# <!-- Slide 07 --> "Social Identity Approach"
+# <!-- Slide --> "Social Identity Approach"
 --
 
 *"self-perceived belonging to groups"*
@@ -122,14 +124,7 @@ class:center
 .pull-left[
 ## Social Identity Theory
 **SIT** (Tajfel & Turner, 1979, 1986)
-
-...
-
 Intergroup relations
-
-...
-
-###**In-group favoritism**
 ]
 
 
@@ -138,81 +133,194 @@ Intergroup relations
 .pull-right[
 ## Self-Categorization Theory
 **SCT** (Turner et al, 1987)
-
-...
-
 Intragroup processes
-
-
-...
-
-###**Normative influence**
 ]
 
 ---
-class:center,middle
-# <!-- Slide 07 --> "Social Identity Theory: SIT"
+class:center
+# <!-- Slide --> Background: "Accentuation principle"
 --
-(Tajfel & Turner, 1979, 1986)
+
+## (Tajfel & Wilkes, 1963)
+
+--
+.pull-left[![](imgs/tajfel1a.png)]
+
+--
+.pull-right[![](imgs/tajfel1b.png)]
+
+--
+
+## "stimuli belonging to different classes are judged as farther apart"
+
+
+---
+class:center
+# <!-- Slide --> Background: "Minimal group paradigm"
+
+## (Tajfel, 1970)
+
+--
+
+![](imgs/tajfel2.png)
+
+---
+class:center
+# <!-- Slide --> Social Identity Theory
+
+##(Tajfel & Turner, 1979, 1986)
+
+--
+
+### Ingroup favouritism 
+--
+(¿Outgroup derogation?)
+--
+
+![](imgs/usthem.jpg)
+
+
+
+---
+class:center
+# <!-- Slide --> Social Categorization Theory
+
+## (Turner, 1987)
+
+--
+
+### Deindividuation process 
+--
+: Normative influence
+
+--
+
+![](imgs/iwe.png)
+
+
+---
+class:center,inverse
+# <!-- Slide --> So... A "Social Identity Approach" 
+
+--
+
+.pull-left[
+## Social Identity Theory
+###**In-group favoritism**
+]
 
 
 --
-## Accentuation principle (Tajfel & Wilkes, 1963)
-"stimuli be!onging to different classes are judged as farther apart"
+
+.pull-right[
+## Self-Categorization Theory
+###**Normative influence**
+]
 
 
+--
+![](imgs/mod1.png)
 
-## Minimal group paradigm 
----
-class:center,middle
-# <!-- Slide 08 --> Two types of effects
-```{r, echo=F, eval=T}
-library(DiagrammeR)
-grViz("
-digraph dot {
-
-  graph [overlap = false,
-        fontsize = 10,
-        layout = dot,
-        rankdir = LR]
-
-  node [shape = circle,
-        fixedsize = true,
-        fontname = Helvetica
-        width=.8] // sets as circles
-  Attit;SocId;Trust
-
-  # several 'edge' statements
-  Trust -> Attit
-  SocId -> {Attit Trust}
-  
-}
-")
-
-```
-
-
-
----
-
-
-
-
-# <!-- Slide 09 --> 2. Context
-##Opposition to power plants in Chile
 
 
 
 
 ---
-# <!-- Slide 10 --> 3. Some results
----
-# <!-- Slide 11 --> 4. Experimental study
-
-## Results
-
+class:inverse,center,middle
+# <!-- Slide --> 2. Context
 
 ---
-# <!-- Slide 12 --> 5. Summary
-##Social identity theory
+class:center
+# <!-- Slide --> Opposition to power plants in Chile (1)
+
+.pull-left[![](imgs/chile11.png)]
+.pull-right[![](imgs/chile12.jpg)]
+
 ---
+class:center
+# <!-- Slide --> Opposition to power plants in Chile (2)
+
+.pull-left[![](imgs/chile21.png)]
+.pull-right[![](imgs/chile22.png)]
+
+---
+class:center, inverse
+# <!-- Slide --> Opposition to power plants in Chile (3)
+
+.pull-left[![](imgs/chile31.png)]
+.pull-right[![](imgs/chile32.png)]
+
+---
+class:center,middle,inverse
+# <!-- Slide --> 3. Some results
+---
+class:center,inverse	
+# <!-- Slide --> SEM Study 1
+--
+
+## Survey data: attitudes, trust, identities 
+
+--
+![](imgs/sem1.png)
+
+---
+class:center,inverse	
+# <!-- Slide --> SEM Study 2
+--
+
+## Better instruments, larger n
+
+--
+![](imgs/sem2.png)
+
+
+
+---
+class:center,inverse
+# <!-- Slide --> Experimental approach
+--
+
+### Vignette manipulation about hydro power (3x3 design, n=279)
+
+--
+
+.pull-left[
+#### Valence: 1) anti, 2) neutral, 3) pro
+#### Source: 1) Establishment, 2) No source, 3) Anti-establishment
+### Interaction: source x majority-identification
+#### F(2,260)=4.35, p=.014
+]
+
+--
+
+.pull-right[
+![](imgs/inter.png)
+]
+
+
+
+---
+class:center,inverse,middle
+# <!-- Slide --> 4. Summary
+
+---
+class:center,inverse
+# <!-- Slide --> Summary
+
+
+##A Social identity approach can provide a framework for understanding risk perception and trust in the context of intergroup phenomena
+
+--
+
+### Social identity theory suggests that in-group favouritism can lead to higher levels of trust towards members of valued ingroups
+
+--
+
+### Social categorization theory suggests that members of groups can be motivated to seek for normative influence from their valued ingroups
+
+
+---
+class:center,inverse,middle
+# <!-- Slide --> Thanks
+
+## herman.elgueta@umag.cl
